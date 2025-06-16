@@ -27,7 +27,7 @@ body {
 }
 
 .container {
-  max-width: 23.438rem;
+  max-width: 375px;
   border-radius: 20%;
 }
 
