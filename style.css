@@ -15,7 +15,7 @@ body {
     hsl(212, 45%, 92%) 20px,
     hsl(212, 45%, 92%) 40px
   );
-  font-family: 'Outfit', sans-serif;
+
   display: flex;
   flex-direction: column;
   /* justify-content: space-between; */
